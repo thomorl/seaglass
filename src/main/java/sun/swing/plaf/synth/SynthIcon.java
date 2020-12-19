@@ -28,7 +28,7 @@ import java.awt.*;
  *
  * @author Thomas Orlando
  */
-public abstract class SynthIcon implements Icon, javax.swing.plaf.synth.SynthIcon {
+public abstract class SynthIcon implements javax.swing.plaf.synth.SynthIcon {
 
     public static int getIconWidth(Icon icon, SynthContext context) {
         if (icon == null) {
