@@ -19,9 +19,9 @@ dependencies {
 }
 
 group = 'com.seaglasslookandfeel'
-version = '0.2.2-SNAPSHOT'
+version = '0.3.0-SNAPSHOT'
 description = 'Sea Glass Look and Feel for Swing'
-java.sourceCompatibility = JavaVersion.VERSION_1_8
+java.sourceCompatibility = JavaVersion.VERSION_1_9
 
 publishing {
     publications {
