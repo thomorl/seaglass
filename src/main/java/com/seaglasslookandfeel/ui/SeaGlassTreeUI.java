@@ -50,7 +50,7 @@ import javax.swing.tree.TreeCellRenderer;
 import javax.swing.tree.TreeModel;
 import javax.swing.tree.TreePath;
 
-import sun.swing.plaf.synth.SynthIcon;
+import compat.sun.swing.plaf.synth.SynthIcon;
 
 import com.seaglasslookandfeel.SeaGlassContext;
 import com.seaglasslookandfeel.SeaGlassLookAndFeel;

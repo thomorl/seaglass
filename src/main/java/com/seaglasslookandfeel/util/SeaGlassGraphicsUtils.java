@@ -43,7 +43,7 @@ import javax.swing.text.View;
 
 import sun.swing.MenuItemLayoutHelper;
 import sun.swing.SwingUtilities2;
-import sun.swing.plaf.synth.SynthIcon;
+import compat.sun.swing.plaf.synth.SynthIcon;
 
 import com.seaglasslookandfeel.SeaGlassContext;
 import com.seaglasslookandfeel.SeaGlassLookAndFeel;

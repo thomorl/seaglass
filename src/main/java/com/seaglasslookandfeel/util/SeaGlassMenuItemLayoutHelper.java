@@ -33,7 +33,7 @@ import sun.swing.MenuItemLayoutHelper;
 import sun.swing.StringUIClientPropertyKey;
 import sun.swing.MenuItemLayoutHelper.ColumnAlignment;
 import sun.swing.MenuItemLayoutHelper.LayoutResult;
-import sun.swing.plaf.synth.SynthIcon;
+import compat.sun.swing.plaf.synth.SynthIcon;
 
 /**
  * @author Kathryn Huxtable

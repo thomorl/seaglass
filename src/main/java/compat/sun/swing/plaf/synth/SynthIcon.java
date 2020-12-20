@@ -17,7 +17,7 @@
  *
  * $Id$
  */
-package sun.swing.plaf.synth;
+package compat.sun.swing.plaf.synth;
 
 import javax.swing.*;
 import javax.swing.plaf.synth.SynthContext;

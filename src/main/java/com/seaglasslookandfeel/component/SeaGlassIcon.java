@@ -35,7 +35,7 @@ import com.seaglasslookandfeel.SeaGlassLookAndFeel;
 import com.seaglasslookandfeel.SeaGlassStyle;
 import com.seaglasslookandfeel.painter.SeaGlassPainter;
 
-import sun.swing.plaf.synth.SynthIcon;
+import compat.sun.swing.plaf.synth.SynthIcon;
 
 /**
  * An icon that delegates to a painter.
