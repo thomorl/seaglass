@@ -27,6 +27,6 @@ package com.seaglasslookandfeel.ui;
  *
  */
 
-public interface SeaglassUI extends javax.swing.plaf.synth.SynthUI, sun.swing.plaf.synth.SynthUI {
+public interface SeaglassUI extends javax.swing.plaf.synth.SynthUI {
 
 }
