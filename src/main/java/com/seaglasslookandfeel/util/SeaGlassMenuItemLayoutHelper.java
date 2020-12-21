@@ -30,7 +30,7 @@ import javax.swing.plaf.synth.SynthStyle;
 import javax.swing.text.View;
 
 import sun.swing.MenuItemLayoutHelper;
-import sun.swing.StringUIClientPropertyKey;
+import compat.sun.swing.StringUIClientPropertyKey;
 import sun.swing.MenuItemLayoutHelper.ColumnAlignment;
 import sun.swing.MenuItemLayoutHelper.LayoutResult;
 import compat.sun.swing.plaf.synth.SynthIcon;
