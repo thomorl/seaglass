@@ -43,7 +43,7 @@ import javax.swing.plaf.synth.SynthContext;
 import javax.swing.plaf.synth.SynthGraphicsUtils;
 import javax.swing.plaf.synth.SynthStyle;
 
-import sun.swing.DefaultLookup;
+import compat.sun.swing.DefaultLookup;
 import compat.sun.swing.SwingUtilities2;
 
 import com.seaglasslookandfeel.SeaGlassContext;

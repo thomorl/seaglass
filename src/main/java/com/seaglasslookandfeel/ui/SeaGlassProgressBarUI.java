@@ -46,7 +46,7 @@ import javax.swing.plaf.synth.ColorType;
 import javax.swing.plaf.synth.SynthContext;
 import javax.swing.plaf.synth.SynthStyle;
 
-import sun.swing.DefaultLookup;
+import compat.sun.swing.DefaultLookup;
 import compat.sun.swing.SwingUtilities2;
 
 import com.seaglasslookandfeel.SeaGlassContext;

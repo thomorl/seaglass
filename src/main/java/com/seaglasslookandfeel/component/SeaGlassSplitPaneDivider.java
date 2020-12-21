@@ -41,7 +41,7 @@ import com.seaglasslookandfeel.SeaGlassContext;
 import com.seaglasslookandfeel.SeaGlassLookAndFeel;
 import com.seaglasslookandfeel.ui.SeaGlassSplitPaneUI;
 
-import sun.swing.DefaultLookup;
+import compat.sun.swing.DefaultLookup;
 
 /**
  * SeaGlassSplitPaneDivider implementation.

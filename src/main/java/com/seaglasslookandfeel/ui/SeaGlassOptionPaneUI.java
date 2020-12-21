@@ -40,7 +40,7 @@ import javax.swing.plaf.basic.BasicOptionPaneUI;
 import javax.swing.plaf.synth.SynthContext;
 import javax.swing.plaf.synth.SynthStyle;
 
-import sun.swing.DefaultLookup;
+import compat.sun.swing.DefaultLookup;
 
 import com.seaglasslookandfeel.SeaGlassContext;
 import com.seaglasslookandfeel.SeaGlassLookAndFeel;
