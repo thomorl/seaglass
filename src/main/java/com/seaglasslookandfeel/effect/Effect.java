@@ -38,7 +38,7 @@ import java.lang.ref.SoftReference;
 
 import javax.swing.ImageIcon;
 
-import sun.awt.AppContext;
+import compat.sun.awt.AppContext;
 
 /**
  * Effect
