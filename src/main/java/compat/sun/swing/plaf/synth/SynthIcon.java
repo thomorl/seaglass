@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2020  Thomas Orlando
+ * Copyright (c)  2020  Thomas Orlando
  *
  * This file is part of the SeaGlass Pluggable Look and Feel.
  *
