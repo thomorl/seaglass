@@ -42,7 +42,7 @@ import javax.swing.plaf.synth.SynthStyle;
 import javax.swing.text.View;
 
 import sun.swing.MenuItemLayoutHelper;
-import sun.swing.SwingUtilities2;
+import compat.sun.swing.SwingUtilities2;
 import compat.sun.swing.plaf.synth.SynthIcon;
 
 import com.seaglasslookandfeel.SeaGlassContext;

@@ -44,7 +44,7 @@ import javax.swing.plaf.synth.SynthGraphicsUtils;
 import javax.swing.plaf.synth.SynthStyle;
 
 import sun.swing.DefaultLookup;
-import sun.swing.SwingUtilities2;
+import compat.sun.swing.SwingUtilities2;
 
 import com.seaglasslookandfeel.SeaGlassContext;
 import com.seaglasslookandfeel.SeaGlassLookAndFeel;

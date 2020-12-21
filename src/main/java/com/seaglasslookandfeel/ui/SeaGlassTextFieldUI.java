@@ -55,7 +55,7 @@ import javax.swing.text.Document;
 import javax.swing.text.JTextComponent;
 import javax.swing.text.View;
 
-import sun.swing.SwingUtilities2;
+import compat.sun.swing.SwingUtilities2;
 
 import com.seaglasslookandfeel.SeaGlassContext;
 import com.seaglasslookandfeel.SeaGlassLookAndFeel;
