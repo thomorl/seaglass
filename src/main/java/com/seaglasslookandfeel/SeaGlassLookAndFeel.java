@@ -76,7 +76,7 @@ import javax.swing.plaf.synth.SynthStyle;
 import javax.swing.plaf.synth.SynthStyleFactory;
 
 import sun.swing.plaf.GTKKeybindings;
-import sun.swing.plaf.WindowsKeybindings;
+import compat.sun.swing.plaf.WindowsKeybindings;
 import sun.swing.plaf.synth.DefaultSynthStyle;
 
 import com.seaglasslookandfeel.component.SeaGlassIcon;
