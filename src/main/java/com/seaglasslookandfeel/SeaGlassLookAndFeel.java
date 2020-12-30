@@ -75,7 +75,7 @@ import javax.swing.plaf.synth.SynthLookAndFeel;
 import javax.swing.plaf.synth.SynthStyle;
 import javax.swing.plaf.synth.SynthStyleFactory;
 
-import sun.swing.plaf.GTKKeybindings;
+import compat.sun.swing.plaf.GTKKeybindings;
 import compat.sun.swing.plaf.WindowsKeybindings;
 import sun.swing.plaf.synth.DefaultSynthStyle;
 
