@@ -39,7 +39,7 @@ import javax.swing.plaf.synth.SynthGraphicsUtils;
 import javax.swing.plaf.synth.SynthStyle;
 import javax.swing.plaf.synth.SynthUI;
 
-import sun.swing.MenuItemLayoutHelper;
+import compat.sun.swing.MenuItemLayoutHelper;
 
 import com.seaglasslookandfeel.SeaGlassContext;
 import com.seaglasslookandfeel.SeaGlassLookAndFeel;
